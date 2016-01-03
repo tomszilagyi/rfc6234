@@ -1,0 +1,8 @@
+SHA algorithms example code
+===========================
+
+This is just the example code from RFC6234 specifying SHA algorithms.
+
+Added Makefile for easy compiling and running the testsuite.
+
+Tested on Linux.
